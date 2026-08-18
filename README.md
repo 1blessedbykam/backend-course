@@ -35,3 +35,6 @@ Learned lists, dictionaries, tuples, sets, error handling, files, and JSON.
 ### Lesson 4: Git and GitHub
 
 Learning version control and saving my work like a real engineer.
+
+## Current Focus
+I'm currently focussing on a small Python backend projects
