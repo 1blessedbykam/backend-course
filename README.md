@@ -43,3 +43,9 @@ I am currently building small Python backend projects.
 ### Lesson 4: Git and GitHub
 
 Learned version control, commits, repositories, and how to save my work like a real engineer.
+
+## Future Projects
+- Notes API with authentication
+- URL shortener with analytics
+- Booking system API
+- Full backend capstone project
