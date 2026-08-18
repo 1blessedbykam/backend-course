@@ -37,4 +37,9 @@ Learned lists, dictionaries, tuples, sets, error handling, files, and JSON.
 Learning version control and saving my work like a real engineer.
 
 ## Current Focus
-I'm currently focussing on a small Python backend projects
+
+I am currently building small Python backend projects.
+
+### Lesson 4: Git and GitHub
+
+Learned version control, commits, repositories, and how to save my work like a real engineer.
