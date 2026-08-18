@@ -1,5 +1,5 @@
-number1 = float(input("Enter first number: "))
-number2 = float(input("Enter second number: "))
+number1 = int(input("Enter first number: "))
+number2 = int(input("Enter second number: "))
 
 print(" ")
 
